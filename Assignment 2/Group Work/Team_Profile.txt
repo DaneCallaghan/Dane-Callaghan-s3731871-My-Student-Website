@@ -18,7 +18,8 @@ which will be the .......
 
 <a href="https://xirtaminteractive.github.io/">GitHub Profile</a> 
 
-personality type: (EnFJ-A)
+Personality Type: (EnFJ-A)
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 <br/>
@@ -27,7 +28,8 @@ personality type: (EnFJ-A)
 
 <a href="https://danecallaghan.github.io/DaneCallaghan/">GitHub Profile</a>
 
-personality type: (I-S-T-J)
+Personality Type: (I-S-T-J)
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
@@ -37,7 +39,8 @@ personality type: (I-S-T-J)
 
 <a href="https://damian-gaffey.github.io/Myprofile/">GitHub Profile</a>
 
-personality type: ( )<!-- Damian's profile currently just says "Defender". We will need the result from the human metrics test-->
+Personality Type: ( )<!-- Damian's profile currently just says "Defender". We will need the result from the human metrics test-->
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
@@ -45,15 +48,17 @@ personality type: ( )<!-- Damian's profile currently just says "Defender". We wi
 
 <a href="jaimesalgado14.github.io">GitHub Profile</a>
 
-personality type: (I-S-T-J)
+Personality Type: (I-S-T-J)
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
-"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their personal profile-->
 
 <h1>Rav</h1>
 
 <a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Rav will need to get us the link to his profile -->
 
-personality type:(ISTJ-a)
+Personality Type:(ISTJ-a)
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
@@ -61,12 +66,14 @@ personality type:(ISTJ-a)
 
 <a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Aaron will need to get us the link to his profile -->
 
-personality type: <!-- Will updtae once Aaron makes contact -->
+Personality Type: <!-- Will update once Aaron makes contact -->
+<!-- Do we need to put the results from the other tests here too as per "Team Profile" of assignment guide-->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
 <h2>GROUP STRENGTH</h2>
 <p>
+The results of the personality tests are important as they show how people interact, learn and behave. Having this information helps the team understand each other better. This can be useful when discussing or presenting new ideas, assigning tasks and making sure everyone understands their role.
 <!-- I think this section should be done as a group, maybe we can all write a quick summary of how we interpret the personality test results and collectively vote on what to put here -->
 </p>
 
